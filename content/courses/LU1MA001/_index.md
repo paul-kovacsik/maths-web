@@ -26,8 +26,7 @@ math: true
 
 Les séances de TD ont lieu les lundi et mercredi matins, soit après les cours associés. Mieux vaut apprendre son cours **avant** d'arriver en TD.
 
-{{% alert note %}}La première semaine est une semaine de remédiation[^1]: c'est une très bonne occasion de revoir les définitions du lycée !{{% /alert %}}
-[^1]: comprendre *remise à niveau*
+{{% alert note %}}La première semaine est une semaine de remédiation[^1]: c'est une très bonne occasion de revoir les définitions du lycée ! [^1]: comprendre *remise à niveau*{{% /alert %}}
 
 **Cycle d'Accueil**:
 * remédiation ({{% staticref "files/lu1ma001/td_0.pdf" "newtab" %}}TD 0{{% /staticref %}})
