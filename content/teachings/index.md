@@ -16,7 +16,7 @@ header:
 ---
 
 Année en cours (2020/2021):
-* [LU1MA001]({{< ref "courses/LU1MA001#anchor" >}})
+* [LU1MA001]({{< ref "/courses/LU1MA001#anchor" >}})
 
 Années passées:
 * 2019/2020: LU3MA236
