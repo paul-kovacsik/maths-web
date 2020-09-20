@@ -1,5 +1,5 @@
 ---
-title: LU1MA001 2020/2021
+title: Mathématiques pour les études scientifiques
 summary: Cours de L1 de Mathématiques pour les études scientifiques
 date: "2018-06-28T00:00:00Z"
 tags: ["L1", "Mission Doctorale", "Sorbonne"]
@@ -10,7 +10,7 @@ profile: false
 comments: false 
 editable: false
 
-subtitle: Mathématiques pour les études scientifiques
+subtitle: LU1MA001 (2020-2021)
 featured: true
 categories: ["Enseignement"]
 
@@ -31,9 +31,9 @@ La première semaine est une semaine de remédiation[^1]: on y travailler cette 
 
 **Cycle d'Accueil**:
 * remédiation
-* Géométrie dans le plan
-* Complexes $\mathbb{C}$
-* conntinuité, dérivabilité, intégration
+* géométrie dans le plan
+* complexes $\mathbb{C}$
+* continuité, dérivabilité, intégration
 
 **Intermède logique**
 

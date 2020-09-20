@@ -17,9 +17,9 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = "Paris Brain Institute"
+  content = "IRM"
   align = "center"  # Choose `center`, `left`, or `right`.
-  overlay_img = "headers/ICM2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/MRI.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.25
   image_parallax = true
 
@@ -28,6 +28,14 @@ height = "300px"
   content = "Géométrie Riemannienne"
   align = "center"
   overlay_img = "headers/RG_illustration.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.25
+  image_parallax = true
+  
+[[item]]
+  title = ""
+  content = "Paris Brain Institute"
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "headers/ICM2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.25
   image_parallax = true
 +++
