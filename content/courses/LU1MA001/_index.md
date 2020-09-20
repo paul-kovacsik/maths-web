@@ -10,7 +10,7 @@ profile: false
 comments: false 
 editable: false
 
-subtitle: LU1MA001 (2020-2021)
+subtitle: LU1MA001 pour les MIPI 15.4 (2020-2021)
 featured: true
 categories: ["Enseignement"]
 
@@ -24,15 +24,15 @@ highlight: true
 math: true
 ---
 
-Les séances de TD auront lieu les lundi et mercredi matins. 
-La première semaine est une semaine de remédiation[^1]: on y travailler cette première {{% staticref "files/lu1ma001/td0.pdf" "newtab" %}}feuille de TD{{% /staticref %}}. C'est une très bonne occasion de revoir les définitions du lycée !
+Les séances de TD ont lieu les lundi et mercredi matins, soit après les cours associés. Mieux vaut apprendre son cours **avant** d'arriver en TD.
 
+{{% alert note %}}La première semaine est une semaine de remédiation[^1]: c'est une très bonne occasion de revoir les définitions du lycée !{{% /alert %}}
 [^1]: comprendre *remise à niveau*
 
 **Cycle d'Accueil**:
-* remédiation
-* géométrie dans le plan
-* complexes $\mathbb{C}$
+* remédiation ({{% staticref "files/lu1ma001/td_0.pdf" "newtab" %}}TD 0{{% /staticref %}})
+* géométrie dans le plan ({{% staticref "files/lu1ma001/td_1.pdf" "newtab" %}}TD 1{{% /staticref %}})
+* complexes $\mathbb{C}$ et polynômes
 * continuité, dérivabilité, intégration
 
 **Intermède logique**
@@ -40,3 +40,4 @@ La première semaine est une semaine de remédiation[^1]: on y travailler cette 
 **Fonctions lisses**:
 * développements limités
 * fonctions de plusieurs variables
+* équations différentielles
