@@ -16,8 +16,8 @@ header:
 ---
 
 Année en cours (2020/2021):
-* [LU1MA001]({{< ref "/courses/LU1MA001#anchor" >}})
+* [LU1MA001]({{< ref "/courses/LU1MA001#anchor" >}}), *Mathématiques pour les études scientifiques*
 
 Années passées:
-* 2019/2020: LU3MA236
+* 2019/2020: LU3MA236, *Equations différentielles et méthodes numériques*
 

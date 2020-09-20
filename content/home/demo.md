@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Bienvenue sur **Le cerisier qui comptait**, un petit site sans prétention où l'on discute de mathématiques. 
-J'y référence aussi les TD et TP donnés dans le cadre de ma mission doctorale à Sorbonne Université.
+Bienvenue sur *Au brin de l'eau*, un petit site sans prétention où l'on discute de mathématiques. 
+J'y référence aussi les cours, TD et TP donnés dans le cadre de ma mission doctorale à Sorbonne Université.
 
 {{% alert note %}}Chargé de TD des MIPI 15.4 [LU1MA001](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1ma001-mathematiques-pour-les-sciences-1.html){{% /alert %}}

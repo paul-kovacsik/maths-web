@@ -24,4 +24,19 @@ highlight: true
 math: true
 ---
 
-Séance de TD #1 disponible ici ...
+Les séances de TD auront lieu les lundi et mercredi matins. 
+La première semaine est une semaine de remédiation[^1]: on y travailler cette première {{% staticref "files/lu1ma001/td0.pdf" "newtab" %}}feuille de TD{{% /staticref %}}. C'est une très bonne occasion de revoir les définitions du lycée !
+
+[^1]: comprendre *remise à niveau*
+
+**Cycle d'Accueil**:
+* remédiation
+* Géométrie dans le plan
+* Complexes $\mathbb{C}$
+* conntinuité, dérivabilité, intégration
+
+**Intermède logique**
+
+**Fonctions lisses**:
+* développements limités
+* fonctions de plusieurs variables
