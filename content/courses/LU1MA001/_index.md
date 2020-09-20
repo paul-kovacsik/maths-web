@@ -31,7 +31,7 @@ Les séances de TD ont lieu les lundi et mercredi matins, soit après les cours 
 **Cycle d'Accueil**:
 * remédiation ({{% staticref "files/lu1ma001/td_0.pdf" "newtab" %}}TD 0{{% /staticref %}})
 * géométrie dans le plan ({{% staticref "files/lu1ma001/td_1.pdf" "newtab" %}}TD 1{{% /staticref %}})
-* complexes $\mathbb{C}$ et polynômes
+* complexes et polynômes
 * continuité, dérivabilité, intégration
 
 **Intermède logique**
