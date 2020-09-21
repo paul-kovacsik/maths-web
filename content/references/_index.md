@@ -1,5 +1,6 @@
 ---
 title: Quelques idées pour se faire les idées
+subtitle: Des sites, des blogs, des chaines YT, des livres, ...
 summary: Des sites, des blogs, des chaines YT, des livres, ...
 date: "2018-06-28T00:00:00Z"
 
